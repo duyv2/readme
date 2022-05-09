@@ -34,3 +34,20 @@ go mod tidy
 vmd@vmd:echo $GOPATH
 /home/vmd/go
 ls $GOPATH/pkg/mod/github.com
+'!burnt!sushi'   go-check        kataras        sergi
+'!cloudy!kit'    go-playground   klauspost     'shurcoo!l'
+'!joker'         go-sql-driver   kr             smartystreets
+'!shopify'       go-stack        labstack       stretchr
+ ajg             gofiber         leodido        ugorji
+ andybalholm     golang          mattn          valyala
+ aymerick        google          microcosm-cc   vmihailenco
+ chris-ramon     gopherjs        mitchellh      xdg-go
+ davecgh         gorilla         modern-go      xeipuuv
+ dgrijalva       imkira          moul           yalp
+ eknkc           iris-contrib    pkg            yosssi
+ fatih           jinzhu          pmezard        youmark
+ gavv            joho            russross       yudai
+ gin-contrib     json-iterator   ryanuber
+ gin-gonic       jtolds          schollz
+
+
