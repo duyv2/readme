@@ -2,13 +2,18 @@
 1. go version: 1.18.1
 2. require\
     These library will automatically install when run below command\
-	github.com/go-resty/resty/v2 v2.7.0\
-	github.com/go-sql-driver/mysql v1.6.0\
-	github.com/gofiber/fiber/v2 v2.21.0\
-	github.com/golang-jwt/jwt v3.2.2+incompatible\
-	github.com/google/uuid v1.3.0 // indirect\
-	github.com/spf13/cobra v1.2.1\
-	github.com/spf13/viper v1.9.0\
-	go.uber.org/zap v1.17.0\
-	gorm.io/driver/mysql v1.1.3\
-	gorm.io/gorm v1.22.2\
+	github.com/andybalholm/brotli v1.0.4 // indirect
+	github.com/fatih/structs v1.1.0 // indirect
+	github.com/go-sql-driver/mysql v1.6.0 // indirect
+	github.com/gofiber/fiber/v2 v2.32.0 // indirect
+	github.com/google/uuid v1.3.0 // indirect
+	github.com/jinzhu/inflection v1.0.0 // indirect
+	github.com/jinzhu/now v1.1.4 // indirect
+	github.com/klauspost/compress v1.15.0 // indirect
+	github.com/mitchellh/mapstructure v1.5.0 // indirect
+	github.com/valyala/bytebufferpool v1.0.0 // indirect
+	github.com/valyala/fasthttp v1.35.0 // indirect
+	github.com/valyala/tcplisten v1.0.0 // indirect
+	golang.org/x/sys v0.0.0-20220227234510-4e6760a101f9 // indirect
+	gorm.io/driver/mysql v1.3.3 // indirect
+	gorm.io/gorm v1.23.4 // indirect
