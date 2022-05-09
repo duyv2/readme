@@ -18,3 +18,16 @@
 	gorm.io/driver/mysql v1.3.3 \
 	gorm.io/gorm v1.23.4 \
 3. app.env file
+
+## How to run
+1. In the source project directory run this command to get dependency library
+```
+go mod download
+```
+2. Go mod tidy cleans up unused dependencies or adds missing dependencies
+```
+go mod tidy
+```
+3. Make sure in your GOPATH has those install library. Something like this\
+    I has $GOPATH locate in this path
+```
