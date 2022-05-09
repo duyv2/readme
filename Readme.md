@@ -62,5 +62,5 @@ go build
 6.  
     Then run the file created above with the `start` options. Your "app.env" file locate in root directory then run this cmd.
 ```
-./ecom_shopping_v2 start
+./go-backend-api start
 ```
