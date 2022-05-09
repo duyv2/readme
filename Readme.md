@@ -31,3 +31,6 @@ go mod tidy
 3. Make sure in your GOPATH has those install library. Something like this\
     I has $GOPATH locate in this path
 ```
+vmd@vmd:echo $GOPATH
+/home/vmd/go
+ls $GOPATH/pkg/mod/github.com
