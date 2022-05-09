@@ -49,5 +49,18 @@ ls $GOPATH/pkg/mod/github.com
  gavv            joho            russross       yudai
  gin-contrib     json-iterator   ryanuber
  gin-gonic       jtolds          schollz
-
-
+```
+4. Run Makefile command
+```
+make run
+```
+5. If you dont have "make" install you could run the following cmd. Step by step\
+    Go will create executable file by run this cmd.
+```
+go build
+```
+6.  
+    Then run the file created above with the `start` options. Your "app.env" file locate in root directory then run this cmd.
+```
+./ecom_shopping_v2 start
+```
